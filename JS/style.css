@@ -1,0 +1,21 @@
+.vistaSinLog{
+    width: auto; 
+    min-height:80vh; 
+    background-color: lightsalmon;
+}
+
+.vistaCliente{
+    width: auto; 
+    min-height: 80vh;; 
+    background-color: lightpink;
+}
+
+.vistaAdmin{
+    width: auto; 
+    min-height: 80vh;; 
+    background-color: lightblue; 
+}
+
+.formulario{
+    text-align: center;
+}
