@@ -176,3 +176,11 @@ footer {
       margin-left: 0;
     }
   }
+  /* Estilo personalizado para el formulario */
+.custom-form {
+  width: 75%; /* Tamaño del formulario al 75% del contenedor padre */
+  background-color: white; /* Fondo blanco */
+  border-radius: 10px; /* Bordes redondeados */
+  margin: 0 auto; /* Centrar horizontalmente */
+  padding: 20px; /* Espacio interior para separar los elementos del borde */
+}
